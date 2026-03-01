@@ -1,0 +1,5 @@
+fastmcp>=0.4.0
+requests>=2.31.0
+playwright>=1.40.0
+pycryptodome>=3.19.0
+starlette>=0.27.0
